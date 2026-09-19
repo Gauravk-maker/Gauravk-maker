@@ -144,16 +144,6 @@ Exploring data analysis, machine learning and predictive models.
 ---
 ---
 
-## 📈 Activity Overview
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauravk-maker&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
 <!-- ======================= CONTRIBUTION GRAPH ======================= -->
 
 ## 📈 Contribution Activity
