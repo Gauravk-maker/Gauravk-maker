@@ -149,7 +149,8 @@ Exploring data analysis, machine learning and predictive models.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauravk-maker&bg_color=ffffff&color=24292f&line=2ea44f&point=24292f&area=true&hide_border=true" width="95%" />
+GitHub automatically tracks my contributions, commits, pull requests,
+issues and other activity directly on my profile.
 
 </div>
 
