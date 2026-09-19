@@ -125,9 +125,7 @@ Exploring data analysis, machine learning and predictive models.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gauravk-maker&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravk-maker&layout=compact&hide_border=true&theme=default" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gauravk-maker&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
 
 </div>
 
@@ -163,7 +161,7 @@ Exploring data analysis, machine learning and predictive models.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gauravk-maker&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+⭐ Keep coding, contributing and building!
 
 </div>
 
